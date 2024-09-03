@@ -2,6 +2,8 @@
 
 In this project I analysed real life data from the New York Stock Exchange of a subset of a large dataset provided by (Kaggle)[https://www.kaggle.com/dgawlik/nyse] that contains historical financial data from S&P 500 companies. 
 
+<br>
+
 ## Introduction to the project
 
 For the final project, we were tasked to conduct three Tasks:
@@ -41,10 +43,13 @@ After familiarizing ourselves with the data set, we needed identify the question
 - The summary information paragraph should clearly communicate our findings based on our analysis and provide visual or numeric values associated with your summary.
 - The visualization(s) might be a bar chart, histogram, scatterplot, box plot, or other visual that we learned to make.
 
+<br>
 
 ## Final Submission
 
 I had a lot of issues finishing this work because this was my first time diving this deep into Excel and had a little trouble summarising my findings. 
+
+<br>
 
 ### Presentation
 
@@ -52,14 +57,17 @@ I had a lot of issues finishing this work because this was my first time diving 
 
 ![Screenshot 2024-09-03 150819](https://github.com/user-attachments/assets/fd4239ad-61b9-4a7b-9708-495f59b159a1)
 
+<br>
 
 ### Summary Statistics
 ![Screenshot 2024-09-03 150842](https://github.com/user-attachments/assets/0258b497-8d4f-40ca-ad51-162b8362bc5b)
 
+<br>
 
 ### Profit and Loss Statement (P&L)
 ![Screenshot 2024-09-03 150851](https://github.com/user-attachments/assets/c4f355f3-a529-48ca-9769-8fcbc940b2c0)
 
+<br>
 
 ### Forecast Modelling
 ![Screenshot 2024-09-03 150911](https://github.com/user-attachments/assets/23118577-fe69-4a6b-a12e-73bdc557e803)
